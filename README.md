@@ -1,6 +1,6 @@
 # miradaxModulo1
 test miradax modulo1
-
+Si sigo las instrucciones del test da 1/10.5  si no imprimo por consola la primer linea en blanco el programa tampoco detecta las tablas pero el resultado del tests es 8/10.5
 daniel@DESKTOP-GTVGOF8 MINGW32 /c/miradaxnodejs6/ejemplosM1/test1/mooc_node-mod1_types_sentences-master
 $ npm run checks
 
